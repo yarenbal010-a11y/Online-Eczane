@@ -1,0 +1,19 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Derleme dosyalari
+bin/
+obj/
+Debug/
+Release/
+
+# Gecici dosyalar
+*.tmp
+*.log
+
+# Gizli bilgiler
+.env
+.env.*
